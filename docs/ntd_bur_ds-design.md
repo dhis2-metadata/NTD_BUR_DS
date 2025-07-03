@@ -20,7 +20,7 @@ The BUR module is built in a single monthly dataset (NTD-BUR-DS - Buruli ulcer) 
 
 The section reports the key surveillance data points to be monitored for reporting. It has a **flat structure** and most DEs are disaggregated by **sex (male and female) and by Global NTD Annual Reporting Form (GNARF) age groups (less than 1y, 1 -4y, 5-14y, 15-24y, 25-49y, 50-64y, 65+ years)**. The deaths are not disaggregated by age or sex.
 
-!(Burden of disease)[resources/images/BUR_001.png]
+![Burden of disease](resources/images/BUR_001.png)
 
 ### Case Classification Section
 
