@@ -26,25 +26,25 @@ The section reports the key surveillance data points to be monitored for reporti
 
 The **case classification** in the BUR module is structured around three standard WHO-defined categories and is further **disaggregated along the case cascade: Reported, Suspected, Confirmed, and Relapsed**. This allows for a more nuanced understanding of the disease burden and the progression of cases through the surveillance and clinical management process. To ensure data consistency and integrity, the **sum of all disaggregations by case classification must match** the corresponding totals recorded in the initial section for reported, suspected, confirmed, and relapsed cases. This alignment is essential for accurate analysis, program monitoring, and validation of reporting completeness.
 
-!(Case classification)[resources/images/BUR_002.png]
+![Case classification](resources/images/BUR_002.png)
 
 ### Treatment Section
 
 The section collects the information on the cases completing a full treatment course disaggregated by confirmed and suspected cases.
 
-!(Treatment completion)[resources/images/BUR_003.png]
+![Treatment completion](resources/images/BUR_003.png)
 
 ### Referral Type Section
 
 The last section of the dataset reports the referred cases disaggregated along the case cascade: Suspected and Confirmed. To ensure data consistency and integrity, the **sum of all disaggregations by case classification must match** the corresponding totals recorded in the initial section for reported, suspected, confirmed, and relapsed cases. This alignment is essential for accurate analysis, program monitoring, and validation of reporting completeness.
 
-!(Referrals)[resources/images/BUR_005.png]
+![Referrals](resources/images/BUR_005.png)
 
 ## Dashboard
 
 The BUR module includes a predefined dashboard (NTD - Buruli ulcer).
 
-!(Dashboard)[resources/images/BUR_004.png]
+![Dashboard](resources/images/BUR_004.png)
 
 ## Special Considerations
 
