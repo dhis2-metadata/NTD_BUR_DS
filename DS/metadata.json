@@ -1599,25 +1599,28 @@
             "attributeValues": [],
             "categoryOptionGroups": [
                 {
-                    "id": "fDR0C2qT3Iz"
-                },
-                {
-                    "id": "WAKg9fHjPcB"
-                },
-                {
-                    "id": "V9t81g7Wspa"
+                    "id": "z2qF4HjWOQR"
                 },
                 {
                     "id": "nbBix6R1Tun"
                 },
                 {
-                    "id": "Re7I7vEx3aQ"
-                },
-                {
-                    "id": "z2qF4HjWOQR"
+                    "id": "V9t81g7Wspa"
                 },
                 {
                     "id": "luftFRvC15k"
+                },
+                {
+                    "id": "fDR0C2qT3Iz"
+                },
+                {
+                    "id": "Re7I7vEx3aQ"
+                },
+                {
+                    "id": "WAKg9fHjPcB"
+                },
+                {
+                    "id": "YXE2HxNf3YB"
                 }
             ],
             "code": "AGE_GNARF",
@@ -2706,6 +2709,7 @@
         },
         {
             "attributeValues": [],
+            "categoryOptions": [],
             "code": "UNK_AGE",
             "dataDimensionType": "DISAGGREGATION",
             "id": "YXE2HxNf3YB",
@@ -3673,7 +3677,460 @@
         }
     ],
     "constants": [],
-    "dashboards": [],
+    "dashboards": [
+        {
+            "allowedFilters": [],
+            "code": "NTD_BUR_DS",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 11,
+                    "id": "YngIuKHbF2i",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "wfhlCtN63M9"
+                    },
+                    "width": 13,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 23,
+                    "id": "rA8C1OkYENb",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "LHf4SE117iq"
+                    },
+                    "width": 19,
+                    "x": 40,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 11,
+                    "id": "JR8ZGCrXHzg",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "YnPMOpTmBEC"
+                    },
+                    "width": 13,
+                    "x": 13,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 11,
+                    "id": "aCiLhROSFzG",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "sDeLNfbqnpZ"
+                    },
+                    "width": 14,
+                    "x": 26,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "P1PhMh7Gzb6",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "TtuS7d6g2Dv"
+                    },
+                    "width": 18,
+                    "x": 0,
+                    "y": 11
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "yVfKZ4kr3Wt",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "rN9JCr7vrkb"
+                    },
+                    "width": 18,
+                    "x": 19,
+                    "y": 11
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 21,
+                    "id": "l5Nl1W2Q5WH",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "lEyukGjY7jL"
+                    },
+                    "width": 35,
+                    "x": 24,
+                    "y": 44
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 23,
+                    "id": "y77SuL8Wh32",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "IhEJToq2SWp"
+                    },
+                    "width": 27,
+                    "x": 32,
+                    "y": 85
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 20,
+                    "id": "AB1JB8ZpQ3Y",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "z5kHIqBwwhc"
+                    },
+                    "width": 35,
+                    "x": 24,
+                    "y": 65
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "gpujGiHSYUT",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "XV6qfGSIWNO"
+                    },
+                    "width": 20,
+                    "x": 0,
+                    "y": 108
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 21,
+                    "id": "P3phtcXbkIP",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "UfDAfivng4X"
+                    },
+                    "width": 37,
+                    "x": 0,
+                    "y": 23
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 18,
+                    "id": "DIkQVLZHk2d",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "jPMJWrdZZR0"
+                    },
+                    "width": 26,
+                    "x": 20,
+                    "y": 108
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 23,
+                    "id": "vCfpccoSD5n",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "fUOFw1xhHXd"
+                    },
+                    "width": 16,
+                    "x": 16,
+                    "y": 85
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 21,
+                    "id": "Idl8yvWN165",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "aeQjDLlbcR3"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "users": [],
+                    "width": 22,
+                    "x": 37,
+                    "y": 23
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 41,
+                    "id": "dzJF0JcXTA1",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "aFwjnR4HafP"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "users": [],
+                    "width": 24,
+                    "x": 0,
+                    "y": 44
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 23,
+                    "id": "kICZf5w1FON",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "visualization": {
+                        "id": "azWkat4eER9"
+                    },
+                    "width": 16,
+                    "x": 0,
+                    "y": 85
+                }
+            ],
+            "id": "TkJEQZTKi0d",
+            "itemConfig": {
+                "insertPosition": "END"
+            },
+            "layout": {
+                "columns": []
+            },
+            "name": "NTD - Buruli ulcer",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "translations": []
+        }
+    ],
     "dataElementGroups": [
         {
             "attributeValues": [],
@@ -4486,6 +4943,44 @@
             "translations": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "GEN_POP_NUM",
+            "domainType": "AGGREGATE",
+            "formName": "Population",
+            "id": "DkmMEcubiPv",
+            "legendSets": [],
+            "name": "GEN - Population",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GEN - Population",
+            "translations": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
         }
     ],
     "dataEntryForms": [],
@@ -4503,15 +4998,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "P7QVtbiQIeN"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MvFo7Z0n4XR"
+                        "id": "BIF1aZOSgob"
                     },
                     "dataSet": {
                         "id": "uuq5rFD9oNz"
@@ -4527,87 +5014,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "nusEogcwj1O"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YKRkwJlJGGe"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Sbo4bvc4MgQ"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QsGoQl8sRQo"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LRP4kN0Nxnt"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hqbbfz37Lvo"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "AtsC3jjrTCu"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "W7iAOJiJC7W"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fv1U5qBYi3i"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KuQwFbjxXyf"
-                    },
-                    "dataSet": {
-                        "id": "uuq5rFD9oNz"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k59Arj2ook3"
+                        "id": "MvFo7Z0n4XR"
                     },
                     "dataSet": {
                         "id": "uuq5rFD9oNz"
@@ -4639,6 +5046,78 @@
                 },
                 {
                     "dataElement": {
+                        "id": "hqbbfz37Lvo"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LRP4kN0Nxnt"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QsGoQl8sRQo"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YKRkwJlJGGe"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "P7QVtbiQIeN"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "W7iAOJiJC7W"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AtsC3jjrTCu"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KuQwFbjxXyf"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Sbo4bvc4MgQ"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "vVm0PeXgfkm"
                     },
                     "dataSet": {
@@ -4647,7 +5126,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "BIF1aZOSgob"
+                        "id": "nusEogcwj1O"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fv1U5qBYi3i"
+                    },
+                    "dataSet": {
+                        "id": "uuq5rFD9oNz"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "k59Arj2ook3"
                     },
                     "dataSet": {
                         "id": "uuq5rFD9oNz"
@@ -4701,11 +5196,1399 @@
     "eventVisualizations": [],
     "indicatorGroupSets": [],
     "indicatorGroups": [],
-    "indicatorTypes": [],
-    "indicators": [],
+    "indicatorTypes": [
+        {
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "factor": 1,
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "number": true,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Numérateur seulement (nombre)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "en",
+                    "property": "NAME",
+                    "value": "_"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kun teller (tall)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pouze čitatel (číslo)"
+                }
+            ]
+        },
+        {
+            "code": "GEN_LIB_PER_100_000",
+            "factor": 100000,
+            "id": "BY11PjGMCg2",
+            "name": "Per 100 000",
+            "number": false,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "На 100 000"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Por 100.000"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pour 100 000"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Ҳар 100 000"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Ҳар 100 000"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Por 100.000"
+                }
+            ]
+        },
+        {
+            "code": "GEN_LIB_PERCENT",
+            "factor": 100,
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "number": false,
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фоиз"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Persentase"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Procento"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Prosentdel"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Foiz"
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_COMPLETED_TREATMENT",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "maa8KaaTqku",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases completing full treatment course",
+            "numerator": "#{MvFo7Z0n4XR}",
+            "numeratorDescription": "Buruli ulcer cases completing full treatment course",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases completing full tx",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_HEALED_WITH_DISABILITY",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "KO2bkZqdcdu",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases healed with disability",
+            "numerator": "#{l7bdwHwuUCv}",
+            "numeratorDescription": "Buruli ulcer cases healed with disability",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "BUR cases healed with disability",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_HEALED_WITH_DISABILITY_PCT",
+            "denominator": "#{MvFo7Z0n4XR}",
+            "denominatorDescription": "Buruli ulcer cases completing full treatment course",
+            "id": "VnElqgdFRMh",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases healed with disability (%)",
+            "numerator": "#{l7bdwHwuUCv}",
+            "numeratorDescription": "Buruli ulcer cases healed with disability",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases healed with disability (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_BY_CHW",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "yAGhhK2ERwf",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - CHW",
+            "numerator": "#{ob5yKhdMxvK}",
+            "numeratorDescription": "Buruli ulcer cases referrd by - CHW",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - CHW",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_BY_FAMILY",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "Yfgksrwd7fj",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Family member",
+            "numerator": "#{Sbo4bvc4MgQ}",
+            "numeratorDescription": "Buruli ulcer cases referrd by - Family member",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - Family member",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_FORMER_PATIENT",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "G3OuLxMAz5K",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Former patient",
+            "numerator": "#{fv1U5qBYi3i}",
+            "numeratorDescription": "Former patient",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - Former patient",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_HW",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "m2EZfEYv8tM",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Health Worker (HW)",
+            "numerator": "#{QsGoQl8sRQo}",
+            "numeratorDescription": "HW",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - Health Worker (HW)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_BY_OTHER",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "k2bIiwNai7d",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Other",
+            "numerator": "#{vVm0PeXgfkm}",
+            "numeratorDescription": "Buruli ulcer cases referrd by - Other",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - Other",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_SCHOOL_TEACHER",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "WF71gFANKQ7",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - School teacher",
+            "numerator": "#{tokDr63g7HL}",
+            "numeratorDescription": "School teacher",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - School teacher",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_BY_SELF",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "F0lx6Zi5ivc",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Self referral",
+            "numerator": "#{YKRkwJlJGGe}",
+            "numeratorDescription": "Buruli ulcer cases referrd by - self referral",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - self referral",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_REFERRED_TRADITIONAL_HEALER",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "NvQEn4NG0wg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer cases referrd by - Traditional healer",
+            "numerator": "#{BIF1aZOSgob}",
+            "numeratorDescription": "Traditional healer",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer cases referrd by - Traditional healer",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_CATEGORY_I_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "QqQeqLP8z1m",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer category I cases",
+            "numerator": "#{W7iAOJiJC7W}",
+            "numeratorDescription": "Buruli ulcer category I cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer category I cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_CATEGORY_II_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "hLuO254OdbY",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer category II cases",
+            "numerator": "#{P7QVtbiQIeN}",
+            "numeratorDescription": "Buruli ulcer category II cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer category II cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_CATEGORY_III_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "tunRQcmUDNp",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer category III cases",
+            "numerator": "#{h0OfIBQ94z4}",
+            "numeratorDescription": "Buruli ulcer category III cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "BUR category III cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_INCIDENCE_PER_100K",
+            "denominator": "#{DkmMEcubiPv}",
+            "denominatorDescription": "Population",
+            "id": "kfvLCjB1Mqn",
+            "indicatorType": {
+                "id": "BY11PjGMCg2"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer incidence (/100,000 pop)",
+            "numerator": "#{LRP4kN0Nxnt}",
+            "numeratorDescription": "New reported cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer incidence (/100,000 pop)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_LAB_CONFIRMED_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "nA7f2WFFAJk",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer lab-confirmed cases",
+            "numerator": "#{KuQwFbjxXyf}",
+            "numeratorDescription": "Buruli ulcer lab-confirmed cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer lab-confirmed cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_LAB_CONFIRMED_CASES_PCT",
+            "denominator": "#{LRP4kN0Nxnt} + #{hqbbfz37Lvo}",
+            "denominatorDescription": "New and relapsed confirmed cases",
+            "id": "OJsvxXQweHw",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer lab-confirmed cases (%)",
+            "numerator": "#{KuQwFbjxXyf}",
+            "numeratorDescription": "Buruli ulcer lab-confirmed cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "BUR lab-confirmed cases (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_PREVALENCE_PER_100K",
+            "denominator": "#{DkmMEcubiPv}",
+            "denominatorDescription": "Population",
+            "id": "bE0uR3wqbvn",
+            "indicatorType": {
+                "id": "BY11PjGMCg2"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer prevalence (/100,000 pop)",
+            "numerator": "#{LRP4kN0Nxnt} + #{hqbbfz37Lvo}",
+            "numeratorDescription": "New and relapsed confirmed cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer prevalence (/100,000 pop)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_SUSPECTED_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "k1DbYyo8QFg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer suspected cases",
+            "numerator": "#{k59Arj2ook3}",
+            "numeratorDescription": "Suspected cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli  ulcer suspected cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NTD_BUR_DS_SUSPECTED_CONFIRMED_CASES",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "AMJfoy0d4Mj",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-BUR-DS - Buruli ulcer suspected/confirmed cases",
+            "numerator": "#{LRP4kN0Nxnt}",
+            "numeratorDescription": "New reported cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Buruli ulcer suspected/confirmed cases",
+            "translations": []
+        }
+    ],
     "jobConfigurations": [],
     "legendSets": [],
-    "maps": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "id": "aeQjDLlbcR3",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "colSubTotals": false,
+                    "colTotals": false,
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "cumulativeValues": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideEmptyRowItems": "NONE",
+                    "hideEmptyRows": false,
+                    "hideLegend": false,
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "Zpc8oqVy6Jw",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "orgUnit",
+                    "name": "Zpc8oqVy6Jw",
+                    "noSpaceBetweenColumns": false,
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "percentStackedValues": false,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "regressionType": "NONE",
+                    "renderingStrategy": "SINGLE",
+                    "rowSubTotals": false,
+                    "rowTotals": false,
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "showData": false,
+                    "showDimensionLabels": false,
+                    "showHierarchy": false,
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": true,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colSubTotals": false,
+                    "colTotals": false,
+                    "colorScale": "#eff3ff,#bdd7e7,#6baed6,#3182bd,#08519c",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "cumulativeValues": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "kfvLCjB1Mqn"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideEmptyRowItems": "NONE",
+                    "hideEmptyRows": false,
+                    "hideLegend": false,
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "qeW5EDrWnjK",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "NTD-BUR-DS - Buruli ulcer incidence (/100,000 pop)",
+                    "noSpaceBetweenColumns": false,
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "percentStackedValues": false,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "regressionType": "NONE",
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": true,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rowSubTotals": false,
+                    "rowTotals": false,
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "showData": false,
+                    "showDimensionLabels": false,
+                    "showHierarchy": false,
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": true,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "NTD-BUR-DS_008 incidence map",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "id": "aFwjnR4HafP",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "colSubTotals": false,
+                    "colTotals": false,
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "cumulativeValues": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideEmptyRowItems": "NONE",
+                    "hideEmptyRows": false,
+                    "hideLegend": false,
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "vyrmm8NQMUv",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "orgUnit",
+                    "name": "vyrmm8NQMUv",
+                    "noSpaceBetweenColumns": false,
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "percentStackedValues": false,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "regressionType": "NONE",
+                    "renderingStrategy": "SINGLE",
+                    "rowSubTotals": false,
+                    "rowTotals": false,
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "showData": false,
+                    "showDimensionLabels": false,
+                    "showHierarchy": false,
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": true,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colSubTotals": false,
+                    "colTotals": false,
+                    "colorScale": "#feebe2,#fbb4b9,#f768a1,#c51b8a,#7a0177",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "cumulativeValues": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "bE0uR3wqbvn"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideEmptyRowItems": "NONE",
+                    "hideEmptyRows": false,
+                    "hideLegend": false,
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "FCIhQhQverL",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "NTD-BUR-DS - Buruli ulcer prevalence (/100,000 pop)",
+                    "noSpaceBetweenColumns": false,
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "percentStackedValues": false,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "regressionType": "NONE",
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": true,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rowSubTotals": false,
+                    "rowTotals": false,
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "showData": false,
+                    "showDimensionLabels": false,
+                    "showHierarchy": false,
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": true,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "NTD-BUR-DS_009 prevalence map",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": []
+        }
+    ],
     "optionGroups": [],
     "optionSets": [],
     "options": [],
@@ -4718,7 +6601,7 @@
         "description": "NTD disease specific: Buruli ulcer",
         "healthAreaCode": "NTD",
         "healthAreaName": "Neglected Tropical Diseases",
-        "lastUpdated": "20250718T104004",
+        "lastUpdated": "20250718T121615",
         "locale": "en",
         "name": "NTD_BUR_DS_AGG_DHIS2.41.0-en",
         "type": "AGG",
@@ -5010,5 +6893,2436 @@
     "validationNotificationTemplates": [],
     "validationRuleGroups": [],
     "validationRules": [],
-    "visualizations": []
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "AMJfoy0d4Mj"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "wfhlCtN63M9",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_001 new reported cases",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Buruli ulcer new reported cases",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "k1DbYyo8QFg"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "YnPMOpTmBEC",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_002 suspected",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Suspected cases",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "nA7f2WFFAJk"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "sDeLNfbqnpZ",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_003 lab-confirmed",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Lab-confirmed cases",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "kfvLCjB1Mqn"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "TtuS7d6g2Dv",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_004 incidence",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "kfvLCjB1Mqn"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Incidence",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "bE0uR3wqbvn"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "rN9JCr7vrkb",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_005 prevalence",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "kfvLCjB1Mqn"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Prevalence",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "k1DbYyo8QFg"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "nA7f2WFFAJk"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "LHf4SE117iq",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_006 case cascade",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Buruli ulcer case cascade",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [
+                {
+                    "categoryOptionGroupSet": {
+                        "id": "CMrvZp5rmoC"
+                    },
+                    "categoryOptionGroups": [
+                        {
+                            "id": "bqoVhX2RfG4"
+                        },
+                        {
+                            "id": "EVYKU2fIc6G"
+                        }
+                    ]
+                },
+                {
+                    "categoryOptionGroupSet": {
+                        "id": "evF0uTvGfEb"
+                    },
+                    "categoryOptionGroups": [
+                        {
+                            "id": "z2qF4HjWOQR"
+                        },
+                        {
+                            "id": "nbBix6R1Tun"
+                        },
+                        {
+                            "id": "V9t81g7Wspa"
+                        },
+                        {
+                            "id": "luftFRvC15k"
+                        },
+                        {
+                            "id": "fDR0C2qT3Iz"
+                        },
+                        {
+                            "id": "Re7I7vEx3aQ"
+                        },
+                        {
+                            "id": "WAKg9fHjPcB"
+                        },
+                        {
+                            "id": "YXE2HxNf3YB"
+                        }
+                    ]
+                }
+            ],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "BRIGHT",
+            "columnDimensions": [
+                "CMrvZp5rmoC"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "AMJfoy0d4Mj"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe",
+                "ou",
+                "dx"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "UfDAfivng4X",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_007 cases by age and sex",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "evF0uTvGfEb"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "bqoVhX2RfG4"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "EVYKU2fIc6G"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Age and sex distribution of confirmed cases",
+            "topLimit": 0,
+            "translations": [],
+            "type": "BAR",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "AMJfoy0d4Mj"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "OJsvxXQweHw"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "lEyukGjY7jL",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_010 lab-confirmed(%)",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "AMJfoy0d4Mj"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "OJsvxXQweHw",
+                    "type": "LINE"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Proportion of lab confirmed cases",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "BRIGHT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "QqQeqLP8z1m"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "hLuO254OdbY"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "tunRQcmUDNp"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "z5kHIqBwwhc",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_011 case category",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "maa8KaaTqku"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "KO2bkZqdcdu"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "VnElqgdFRMh"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Cases by category",
+            "topLimit": 0,
+            "translations": [],
+            "type": "PIE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "maa8KaaTqku"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "azWkat4eER9",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_012 full tx",
+            "noSpaceBetweenColumns": true,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "maa8KaaTqku"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "KO2bkZqdcdu"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "VnElqgdFRMh",
+                    "type": "LINE"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Cases completing a full treatment course",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [
+                {
+                    "categoryOptionGroupSet": {
+                        "id": "BEpG3tSKEUj"
+                    },
+                    "categoryOptionGroups": [
+                        {
+                            "id": "KY2Bo9iFGHF"
+                        },
+                        {
+                            "id": "q4OppH9C2l0"
+                        }
+                    ]
+                }
+            ],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "EXTENDED",
+            "columnDimensions": [
+                "BEpG3tSKEUj"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "maa8KaaTqku"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe",
+                "dx"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "fUOFw1xhHXd",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_013 tx completed",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "bqoVhX2RfG4"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "EVYKU2fIc6G"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Suspected and confirmed cases who completed a full course of treatment",
+            "topLimit": 0,
+            "translations": [],
+            "type": "PIE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "KO2bkZqdcdu"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "VnElqgdFRMh"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "IhEJToq2SWp",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_014 tx and disability",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "maa8KaaTqku"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "KO2bkZqdcdu"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "VnElqgdFRMh",
+                    "type": "LINE"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Cases healed with a disability (limitation of movement)",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "COLOR_BLIND",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "F0lx6Zi5ivc"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "m2EZfEYv8tM"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "yAGhhK2ERwf"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Yfgksrwd7fj"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "G3OuLxMAz5K"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "WF71gFANKQ7"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "NvQEn4NG0wg"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "k2bIiwNai7d"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "XV6qfGSIWNO",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_015 referrals",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "maa8KaaTqku"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "KO2bkZqdcdu"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "VnElqgdFRMh"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Cases referred",
+            "topLimit": 0,
+            "translations": [],
+            "type": "PIE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [
+                {
+                    "categoryOptionGroupSet": {
+                        "id": "BEpG3tSKEUj"
+                    },
+                    "categoryOptionGroups": [
+                        {
+                            "id": "KY2Bo9iFGHF"
+                        },
+                        {
+                            "id": "q4OppH9C2l0"
+                        }
+                    ]
+                }
+            ],
+            "colSubTotals": false,
+            "colTotals": true,
+            "colorSet": "COLOR_BLIND",
+            "columnDimensions": [
+                "BEpG3tSKEUj"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "F0lx6Zi5ivc"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "m2EZfEYv8tM"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "yAGhhK2ERwf"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Yfgksrwd7fj"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "G3OuLxMAz5K"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "WF71gFANKQ7"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "NvQEn4NG0wg"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "k2bIiwNai7d"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "jPMJWrdZZR0",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "NTD-BUR-DS_016 referrals by cascade",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "dx"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": true,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "maa8KaaTqku"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "KO2bkZqdcdu"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "VnElqgdFRMh"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "DUmOQWqaHq2": {
+                        "access": "r-------",
+                        "id": "DUmOQWqaHq2"
+                    },
+                    "IvnzQiW40NN": {
+                        "access": "r-------",
+                        "id": "IvnzQiW40NN"
+                    },
+                    "UlKV6vitMkD": {
+                        "access": "rw------",
+                        "id": "UlKV6vitMkD"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "title": "Cases referred",
+            "topLimit": 0,
+            "translations": [],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        }
+    ]
 }
